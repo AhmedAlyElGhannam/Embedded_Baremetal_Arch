@@ -1,0 +1,5 @@
+/home/nemesis/Playground/Github_Repositories/Embedded_Baremetal_Arch/avr-cmake-trial/build/CMakeFiles/AVR_TRIAL.elf.dir
+/home/nemesis/Playground/Github_Repositories/Embedded_Baremetal_Arch/avr-cmake-trial/build/CMakeFiles/flash.dir
+/home/nemesis/Playground/Github_Repositories/Embedded_Baremetal_Arch/avr-cmake-trial/build/CMakeFiles/burn.dir
+/home/nemesis/Playground/Github_Repositories/Embedded_Baremetal_Arch/avr-cmake-trial/build/CMakeFiles/edit_cache.dir
+/home/nemesis/Playground/Github_Repositories/Embedded_Baremetal_Arch/avr-cmake-trial/build/CMakeFiles/rebuild_cache.dir

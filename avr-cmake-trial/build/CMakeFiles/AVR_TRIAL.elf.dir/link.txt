@@ -1,0 +1,1 @@
+avr-gcc -mmcu=atmega32 -Wl,--gc-sections CMakeFiles/AVR_TRIAL.elf.dir/main.c.obj -o AVR_TRIAL.elf 
