@@ -1,0 +1,8 @@
+/home/nemesis/Playground/Github_Repositories/ITI_EmbeddedBareMetal/Test_App/build/CMakeFiles/AVR_PROJECT.elf.dir
+/home/nemesis/Playground/Github_Repositories/ITI_EmbeddedBareMetal/Test_App/build/CMakeFiles/flash.dir
+/home/nemesis/Playground/Github_Repositories/ITI_EmbeddedBareMetal/Test_App/build/CMakeFiles/burn.dir
+/home/nemesis/Playground/Github_Repositories/ITI_EmbeddedBareMetal/Test_App/build/CMakeFiles/edit_cache.dir
+/home/nemesis/Playground/Github_Repositories/ITI_EmbeddedBareMetal/Test_App/build/CMakeFiles/rebuild_cache.dir
+/home/nemesis/Playground/Github_Repositories/ITI_EmbeddedBareMetal/Test_App/build/MDIO/CMakeFiles/MDIO.dir
+/home/nemesis/Playground/Github_Repositories/ITI_EmbeddedBareMetal/Test_App/build/MDIO/CMakeFiles/edit_cache.dir
+/home/nemesis/Playground/Github_Repositories/ITI_EmbeddedBareMetal/Test_App/build/MDIO/CMakeFiles/rebuild_cache.dir
